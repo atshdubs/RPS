@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+	color: #406F8F;
+}
+
+.c1 {
+	margin: 100px 55px 100px 55px;
+	padding-left: 0px;
+    padding-right: 0px;
+}
+
+#short {
+	font-size: 15px;
+}
+
+.jumbotron:hover {
+	box-shadow: 10px 5px #275591;
+	color: #275591;
+	cursor: pointer;
+}

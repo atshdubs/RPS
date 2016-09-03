@@ -3,10 +3,9 @@ body {
 	color: #406F8F;
 }
 
-.c1 {
-	margin: 100px 55px 100px 55px;
-	padding-left: 0px;
-    padding-right: 0px;
+.jumbotron {
+	margin-bottom: 0px;
+	margin-top: 55px;
 }
 
 #short {
